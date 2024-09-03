@@ -1,2 +1,3 @@
 # Bicycle-sales-dashboard
 Power bi Dashboard
+As part of the Bicycle Sales Dashboard project, I designed and developed an interactive and visually compelling dashboard using Power BI. The dashboard was aimed at providing in-depth analysis of Bicycle sales performance across various sales and profit  categories by segment, category, month . I integrated and processed sales data from multiple sources using SQL, ensuring high data accuracy and consistency. The project involved creating dynamic reports and visualizations that allowed stakeholders to monitor key performance indicators (KPIs) such as sales trends, and profit .
